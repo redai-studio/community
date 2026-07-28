@@ -494,7 +494,7 @@ GDPO 需要：
 
 ---
 
-## 5. 新增任务（基于 redai-infra/Relax main@8a54679）
+## 5. 新增任务 7.28新增
 
 > 以下路径仅作为定位提示，基于 redai-infra/Relax main@8a54679；最终改动范围以认领 Issue/RFC 为准。
 
