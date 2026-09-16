@@ -1,6 +1,6 @@
-# RedAI Infra Community
+# RedAI Studio Community
 
-欢迎来到 RedAI Infra Community！这里是小红书大模型基建部面向开源社区的协作入口，用于沉淀社区活动、贡献指南和协作资料。具体项目的代码开发、Issue 与 Pull Request 请前往对应项目仓库。
+欢迎来到 RedAI Studio Community！这里是小红书大模型基建部面向开源社区的协作入口，用于沉淀社区活动、贡献指南和协作资料。具体项目的代码开发、Issue 与 Pull Request 请前往对应项目仓库。
 
 我们致力于建设领先、开发者友好的 AI 大模型全栈基础设施。无论你是第一次参与开源，还是希望深入大模型训练、推理、优化与服务，都欢迎从一个 Issue 开始。
 
@@ -10,9 +10,7 @@
 
 该活动面向希望参与大模型强化学习与 AI Infra 开源建设的开发者，提供新手入门任务和正式贡献任务。你可以先阅读活动说明，再根据自己的兴趣与经验选择任务。
 
-- [活动流程与参与说明](https://github.com/redai-infra/Relax/issues/77)
-- [新手入门任务](https://github.com/redai-infra/Relax/issues/76)
-- [浏览全部开放任务](https://github.com/redai-infra/Relax/issues)
+- [活动流程与参与说明](https://github.com/redai-studio/Relax/issues/77)
 
 活动安排与任务状态以对应 Issue 中的最新信息为准。
 
