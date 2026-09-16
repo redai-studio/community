@@ -19,19 +19,18 @@
 
 ```text
 【报名】1
-GitHub ID：your_github_id
+【GitHub ID】your_github_id
 ```
 
 **组队认领（2–3 人）：**
 
 ```text
-/claim
 【报名】1
-GitHub ID：your_github_id
-组队队友 GitHub ID：teammate_github_id_1、teammate_github_id_2
+【GitHub ID】your_github_id
+【组队队友 GitHub ID】teammate_github_id_1、teammate_github_id_2
 ```
 
-组队时由一名成员留言，填写本人及所有队友的 GitHub ID；两人组队只需填写一名队友。
+组队时由队长留言，填写本人及所有队友的 GitHub ID。
 
 ## 认领规则
 
