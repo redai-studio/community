@@ -11,13 +11,27 @@
 5. 通过问卷提交 Review 请求。
 6. 根据 Review 意见继续完善，直到 PR 合入；合入后由导师验收并确认积分。
 
-认领留言填写以下信息即可：
+## 认领方式
+
+在任务对应的 GitHub Issue 下评论，将示例中的 `1` 替换为任务总表中的编号。
+
+**单人认领：**
 
 ```text
-参与方式：单人 / 团队
-成员 GitHub 账号：@xxx（团队请列出全部成员，最多 3 人）
-初步计划：准备从哪里入手
+【报名】1
+GitHub ID：your_github_id
 ```
+
+**组队认领（2–3 人）：**
+
+```text
+/claim
+【报名】1
+GitHub ID：your_github_id
+组队队友 GitHub ID：teammate_github_id_1、teammate_github_id_2
+```
+
+组队时由一名成员留言，填写本人及所有队友的 GitHub ID；两人组队只需填写一名队友。
 
 ## 认领规则
 
