@@ -22,7 +22,7 @@
 2. 需要 RFC 的任务，先提交方案并通过评审，再进入开发。
 3. 提交 PR，关联任务 Issue，并提供题目要求的测试、实验结果或文档。
 4. 确保 required CI 全部通过，并通过 `rai-studio-bot` 的自动 Review。
-5. 通过问卷提交 Review 请求。
+5. 在 PR 下通过 comment 发送「@SigureMo 任务已完成，请求 review。」以请求研发导师进行人工 Review。
 6. 根据 Review 意见继续完善，直到 PR 合入；合入后由导师验收并确认积分。
 
 ## Coding Agent 使用原则
