@@ -12,13 +12,11 @@
 
 - [活动流程与参与说明](https://github.com/redai-studio/Relax/issues/321)
 
-### Relax 进校园 · 第一期开放任务
-
-该活动面向希望参与大模型强化学习与 AI Infra 开源建设的开发者，提供新手入门任务和正式贡献任务。你可以先阅读活动说明，再根据自己的兴趣与经验选择任务。
-
-- [活动流程与参与说明](https://github.com/redai-studio/Relax/issues/77)
-
 活动安排与任务状态以对应 Issue 中的最新信息为准。
+
+### 历史活动
+
+- [Relax 进校园 · 第一期开放任务](https://github.com/redai-studio/Relax/issues/77)
 
 ## 如何参与
 
