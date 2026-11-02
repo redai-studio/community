@@ -1,6 +1,6 @@
 # 新手任务：Qwen3-0.6B 单卡 GRPO × GSM8K
 
-> 完整任务说明见 [redai-infra/Relax#76](https://github.com/redai-infra/Relax/issues/76)
+> 完整任务说明见 [redai-studio/Relax#76](https://github.com/redai-studio/Relax/issues/76)
 
 ## 任务目标
 
@@ -17,8 +17,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/redai-infra/Relax.git
-git clone https://github.com/redai-infra/community.git
+git clone https://github.com/redai-studio/Relax.git
+git clone https://github.com/redai-studio/community.git
 
 # 脚本依赖 Relax 目录结构（自解析根目录），需 cp 到 Relax/examples/ 下再跑
 mkdir -p Relax/examples/beginner-task

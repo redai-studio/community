@@ -36,7 +36,7 @@
 4. 提交 Pull Request，在描述中关联 Issue，并说明改动内容和验证结果。
 5. 根据评审意见继续完善，直至改动合入。
 
-提交贡献前，请阅读项目的[贡献指南](https://github.com/redai-infra/Relax/blob/main/docs/zh/guide/how-to-contribute.md)。
+提交贡献前，请阅读项目的[贡献指南](https://github.com/redai-studio/Relax/blob/main/docs/zh/guide/how-to-contribute.md)。
 
 ## 社区协作原则
 
@@ -44,21 +44,21 @@
 - **尊重友善**：尊重不同背景与观点，围绕事实和技术问题展开讨论。
 - **任务清晰**：Issue 应尽量写明背景、目标、范围和验收方式。
 - **结果可复现**：代码贡献应提供必要的测试、日志、环境说明或实验结果。
-- **安全合规**：发现安全问题时，请按照项目的[安全政策](https://github.com/redai-infra/Relax/blob/main/.github/SECURITY.md)进行反馈。
+- **安全合规**：发现安全问题时，请按照项目的[安全政策](https://github.com/redai-studio/Relax/blob/main/.github/SECURITY.md)进行反馈。
 
 ## 联系与交流
 
-- 使用问题、技术交流与想法讨论：[Relax Discussions](https://github.com/redai-infra/Relax/discussions)
-- 缺陷反馈、功能建议与任务认领：[Relax Issues](https://github.com/redai-infra/Relax/issues)
-- 项目更新与更多开源项目：[RedAI Infra](https://github.com/redai-infra)
+- 使用问题、技术交流与想法讨论：[Relax Discussions](https://github.com/redai-studio/Relax/discussions)
+- 缺陷反馈、功能建议与任务认领：[Relax Issues](https://github.com/redai-studio/Relax/issues)
+- 项目更新与更多开源项目：[RedAI Studio](https://github.com/redai-studio)
 
 ## 更多信息
 
 | 资源 | 说明 |
 | --- | --- |
-| [Relax](https://github.com/redai-infra/Relax) | 面向全模态后训练的大规模异步强化学习引擎 |
-| [Relax 文档](https://redai-infra.github.io/Relax/) | 安装、使用和开发文档 |
-| [Relax 贡献指南](https://github.com/redai-infra/Relax/blob/main/docs/zh/guide/how-to-contribute.md) | 开发环境、贡献流程与代码规范 |
-| [RedAI Infra GitHub 组织](https://github.com/redai-infra) | RedAI Infra 的开源项目主页 |
+| [Relax](https://github.com/redai-studio/Relax) | 面向全模态后训练的大规模异步强化学习引擎 |
+| [Relax 文档](https://redai-studio.github.io/Relax/) | 安装、使用和开发文档 |
+| [Relax 贡献指南](https://github.com/redai-studio/Relax/blob/main/docs/zh/guide/how-to-contribute.md) | 开发环境、贡献流程与代码规范 |
+| [RedAI Studio GitHub 组织](https://github.com/redai-studio) | RedAI Studio 的开源项目主页 |
 
 期待与你一起建设开放、友好且务实的 AI Infra 开源社区。
